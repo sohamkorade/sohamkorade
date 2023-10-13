@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* CSE Undergraduate at IIIT Hyderabad
+* I'm a CSE Undergraduate at IIIT Hyderabad
 * LinkedIn: https://www.linkedin.com/in/soham-korade/
