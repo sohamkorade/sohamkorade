@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 * I'm a CSE Undergraduate at IIIT Hyderabad
 * LinkedIn: https://www.linkedin.com/in/soham-korade/
 * CV: https://sohamapps.rf.gd/cv.pdf
+* Personal Website: https://sohamapps.rf.gd/
